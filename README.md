@@ -1,1 +1,2 @@
-# bene_batch_create_from_csv
+# Script for Batch Creating Beneficiaries
+
