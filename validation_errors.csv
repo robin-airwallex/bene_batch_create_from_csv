@@ -1,0 +1,118 @@
+beneficiary_name,row_number,beneficiary_country,error_field,error_explanation,error_param
+Alexander Bitsakis,3,CA,beneficiary.bank_details.account_routing_value1,Only numerical values are accepted.,null
+Alexander Bitsakis,3,CA,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Maria-Angela Doumit,7,CA,beneficiary.bank_details.account_routing_value1,Only numerical values are accepted.,null
+Maria-Angela Doumit,7,CA,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Donna-Lynn Kovic,5,CA,beneficiary.bank_details.account_number,The number of characters in this field is higher/lower than the acceptable length. Please provide a value within the acceptable range as defined in the params object. length_min: minimum number of characters accepted for this field; length_max: maximum number of characters accepted for this field,{"length_max":21,"length_min":7}
+Donna-Lynn Kovic,5,CA,beneficiary.bank_details.account_routing_value1,Only numerical values are accepted.,null
+Donna-Lynn Kovic,5,CA,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Saoirse McNally,19,CA,beneficiary.bank_details.account_routing_value1,Only numerical values are accepted.,null
+Saoirse McNally,19,CA,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Sanaya Shetty,12,CA,beneficiary.bank_details.account_routing_value1,Only numerical values are accepted.,null
+Sanaya Shetty,12,CA,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Brendan Joseph Riordan,27,ES,beneficiary.bank_details.iban,The IBAN specified does not match the bank country code provided. Please provide a valid IBAN and try again.,null
+Yulia Merzliakova,14,CA,beneficiary.bank_details.account_routing_value1,Only numerical values are accepted.,null
+Yulia Merzliakova,14,CA,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Eric Thomas Poehlman,6,CA,beneficiary.bank_details.account_routing_value1,Only numerical values are accepted.,null
+Eric Thomas Poehlman,6,CA,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Gabrielle Morin Morin,17,CA,beneficiary.bank_details.account_routing_value1,Only numerical values are accepted.,null
+Gabrielle Morin Morin,17,CA,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Journel Agatha,40,FR,beneficiary.bank_details.iban,This field is mandatory for this request. Please specify a value and try again.,null
+HUNG Pui Sze,101,HK,beneficiary.bank_details.account_routing_value1,The number of characters in this field is higher/lower than the acceptable length. Please provide a value in the length as defined in the params object. length: the exact number of characters accepted for this field,{"length":3}
+HUNG Pui Sze,101,HK,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Susan Dale Craig,13,CA,beneficiary.bank_details.account_number,The number of characters in this field is higher/lower than the acceptable length. Please provide a value within the acceptable range as defined in the params object. length_min: minimum number of characters accepted for this field; length_max: maximum number of characters accepted for this field,{"length_max":21,"length_min":7}
+Susan Dale Craig,13,CA,beneficiary.bank_details.account_routing_value1,Only numerical values are accepted.,null
+Susan Dale Craig,13,CA,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Mireia Font Criach,30,ES,beneficiary.bank_details.swift_code,The SWIFT code / BIC specified is invalid.,null
+CLAUDIA ALEJANDRA ORTIZ MORALES,2,CA,beneficiary.bank_details.account_routing_value1,Only numerical values are accepted.,null
+CLAUDIA ALEJANDRA ORTIZ MORALES,2,CA,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Maria Conte,134,IT,beneficiary.bank_details.iban,The IBAN is invalid for the country specified. Please provide a valid IBAN and try again.,null
+Arsham Farasat,16,CA,beneficiary.bank_details.account_routing_value1,Only numerical values are accepted.,null
+Arsham Farasat,16,CA,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Michel Ange Martin Antunez,29,ES,beneficiary.bank_details.iban,The IBAN specified does not match the bank country code provided. Please provide a valid IBAN and try again.,null
+Charles Gutmann,11,CA,beneficiary.bank_details.account_routing_value1,Only numerical values are accepted.,null
+Charles Gutmann,11,CA,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+MISS MULET LORCA,57,FR,beneficiary.bank_details.iban,The IBAN specified does not match the bank country code provided. Please provide a valid IBAN and try again.,null
+Gary Bleasdale,85,GB,beneficiary.bank_details.account_number,This field is mandatory for this request. Please specify a value and try again.,null
+Gary Bleasdale,85,GB,beneficiary.bank_details.account_routing_value1,The number of characters in this field is higher/lower than the acceptable length. Please provide a value in the length as defined in the params object. length: the exact number of characters accepted for this field,{"length":6}
+Gary Bleasdale,85,GB,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Raphaelle Berberyan,8,CA,beneficiary.bank_details.account_routing_value1,Only numerical values are accepted.,null
+Raphaelle Berberyan,8,CA,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+MARIA JOSE BOETA PARDO,35,ES,beneficiary.bank_details.iban,The IBAN is invalid for the country specified. Please provide a valid IBAN and try again.,null
+Michael Christopher Tran,18,CA,beneficiary.bank_details.account_routing_value1,Only numerical values are accepted.,null
+Michael Christopher Tran,18,CA,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Klivinyi Zoltan Geza,104,HU,beneficiary.bank_details.iban,This field is mandatory for this request. Please specify a value and try again.,null
+Klivinyi Zoltan Geza,104,HU,beneficiary.bank_details.swift_code,The SWIFT code / BIC specified does not match the bank country code provided. Please provide a valid SWIFT code / BIC and try again.,null
+Carol Ann McKenzie,10,CA,beneficiary.bank_details.account_routing_value1,Only numerical values are accepted.,null
+Carol Ann McKenzie,10,CA,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Benjamin Martin,100,GR,beneficiary.bank_details.iban,The IBAN specified does not match the bank country code provided. Please provide a valid IBAN and try again.,null
+Mari Yamazaki,136,JP,beneficiary.bank_details.account_number,The number of characters in this field is higher/lower than the acceptable length. Please provide a value in the length as defined in the params object. length: the exact number of characters accepted for this field,{"length":7}
+Mari Yamazaki,136,JP,beneficiary.bank_details.account_routing_value1,The number of characters in this field is higher/lower than the acceptable length. Please provide a value in the length as defined in the params object. length: the exact number of characters accepted for this field,{"length":7}
+Mari Yamazaki,136,JP,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Simon Bendahan,9,CA,beneficiary.bank_details.account_routing_value1,Only numerical values are accepted.,null
+Simon Bendahan,9,CA,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Mehdi Ouadah,62,FR,beneficiary.bank_details.iban,The IBAN specified does not match the bank country code provided. Please provide a valid IBAN and try again.,null
+Yumi Kimura,138,JP,beneficiary.bank_details.account_number,The number of characters in this field is higher/lower than the acceptable length. Please provide a value in the length as defined in the params object. length: the exact number of characters accepted for this field,{"length":7}
+Yumi Kimura,138,JP,beneficiary.bank_details.account_routing_value1,The number of characters in this field is higher/lower than the acceptable length. Please provide a value in the length as defined in the params object. length: the exact number of characters accepted for this field,{"length":7}
+Yumi Kimura,138,JP,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Francesco Marcucci,25,DE,beneficiary.bank_details.iban,The IBAN specified does not match the bank country code provided. Please provide a valid IBAN and try again.,null
+G�NE? I?IK,158,TR,beneficiary.address.state,This field is mandatory for this request. Please specify a value and try again.,null
+G�NE? I?IK,158,TR,beneficiary.bank_details.account_name,Only alphanumeric characters and punctuations (definition) are accepted.,null
+Adam Michael Charles Simmonds,122,IT,beneficiary.bank_details.iban,The IBAN is invalid for the country specified. Please provide a valid IBAN and try again.,null
+Nozomi Mitarashi,137,JP,beneficiary.bank_details.account_number,Only numerical values are accepted.,null
+Nozomi Mitarashi,137,JP,beneficiary.bank_details.account_number,The number of characters in this field is higher/lower than the acceptable length. Please provide a value in the length as defined in the params object. length: the exact number of characters accepted for this field,{"length":7}
+Nozomi Mitarashi,137,JP,beneficiary.bank_details.account_routing_value1,The number of characters in this field is higher/lower than the acceptable length. Please provide a value in the length as defined in the params object. length: the exact number of characters accepted for this field,{"length":7}
+Nozomi Mitarashi,137,JP,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Beatrice Nusink,4,CA,beneficiary.bank_details.account_routing_value1,Only numerical values are accepted.,null
+Beatrice Nusink,4,CA,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Louis Capion,58,FR,beneficiary.bank_details.iban,The IBAN specified does not match the bank country code provided. Please provide a valid IBAN and try again.,null
+Rui de Sousa Barbosa,153,PT,beneficiary.bank_details.swift_code,The SWIFT code / BIC specified is invalid.,null
+Jeraint James Hazan,87,GB,beneficiary.bank_details.account_routing_value1,The number of characters in this field is higher/lower than the acceptable length. Please provide a value in the length as defined in the params object. length: the exact number of characters accepted for this field,{"length":6}
+Jeraint James Hazan,87,GB,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Ingrid Durupt,52,FR,beneficiary.bank_details.iban,The IBAN specified does not match the bank country code provided. Please provide a valid IBAN and try again.,null
+Ali Altarhouni,15,CA,beneficiary.bank_details.account_routing_value1,Only numerical values are accepted.,null
+Ali Altarhouni,15,CA,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+AHN HEE SU,139,KR,beneficiary.bank_details.account_number,Only alphanumeric characters (definition) are accepted.,null
+AHN HEE SU,139,KR,beneficiary.bank_details.account_routing_value1,The number of characters in this field is higher/lower than the acceptable length. Please provide a value in the length as defined in the params object. length: the exact number of characters accepted for this field,{"length":3}
+AHN HEE SU,139,KR,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+MEL?S ARIKAN,159,TR,beneficiary.address.state,This field is mandatory for this request. Please specify a value and try again.,null
+Sofia Salini,121,IT,beneficiary.bank_details.iban,The IBAN specified does not match the bank country code provided. Please provide a valid IBAN and try again.,null
+Rakesh Malhotra,94,GB,beneficiary.bank_details.account_routing_value1,The number of characters in this field is higher/lower than the acceptable length. Please provide a value in the length as defined in the params object. length: the exact number of characters accepted for this field,{"length":6}
+Rakesh Malhotra,94,GB,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Jamie Fawcett,77,GB,beneficiary.bank_details.account_number,This field is mandatory for this request. Please specify a value and try again.,null
+Isabella Widmer,76,GB,beneficiary.bank_details.swift_code,The SWIFT code / BIC specified does not match the bank country code provided. Please provide a valid SWIFT code / BIC and try again.,null
+Mau Siu Wai,102,HK,beneficiary.bank_details.account_routing_value1,The number of characters in this field is higher/lower than the acceptable length. Please provide a value in the length as defined in the params object. length: the exact number of characters accepted for this field,{"length":3}
+Mau Siu Wai,102,HK,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Rita Fougea,65,FR,beneficiary.bank_details.iban,The IBAN specified does not match the bank country code provided. Please provide a valid IBAN and try again.,null
+MR C GROGAN,84,GB,beneficiary.bank_details.account_number,The number of characters in this field is higher/lower than the acceptable length. Please provide a value in the length as defined in the params object. length: the exact number of characters accepted for this field,{"length":8}
+Chantana Boonrod,157,TH,beneficiary.address.state,This field is mandatory for this request. Please specify a value and try again.,null
+Oliver Webb,79,GB,beneficiary.bank_details.account_routing_value1,The number of characters in this field is higher/lower than the acceptable length. Please provide a value in the length as defined in the params object. length: the exact number of characters accepted for this field,{"length":6}
+Oliver Webb,79,GB,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+MISS B S HAMER,82,GB,beneficiary.bank_details.account_routing_value1,The number of characters in this field is higher/lower than the acceptable length. Please provide a value in the length as defined in the params object. length: the exact number of characters accepted for this field,{"length":6}
+MISS B S HAMER,82,GB,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Sunah Kim,142,KR,beneficiary.bank_details.account_number,Only alphanumeric characters (definition) are accepted.,null
+Sunah Kim,142,KR,beneficiary.bank_details.account_routing_value1,The number of characters in this field is higher/lower than the acceptable length. Please provide a value in the length as defined in the params object. length: the exact number of characters accepted for this field,{"length":3}
+M. Theo Douchand,90,GB,beneficiary.bank_details.account_routing_value1,The number of characters in this field is higher/lower than the acceptable length. Please provide a value in the length as defined in the params object. length: the exact number of characters accepted for this field,{"length":6}
+M. Theo Douchand,90,GB,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Thomas Kiely,111,IE,beneficiary.bank_details.iban,The IBAN specified does not match the bank country code provided. Please provide a valid IBAN and try again.,null
+Jeong Yeon Seo,140,KR,beneficiary.bank_details.account_number,Only alphanumeric characters (definition) are accepted.,null
+Jeong Yeon Seo,140,KR,beneficiary.bank_details.account_routing_value1,The number of characters in this field is higher/lower than the acceptable length. Please provide a value in the length as defined in the params object. length: the exact number of characters accepted for this field,{"length":3}
+Jeong Yeon Seo,140,KR,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Clementina Trevisan,131,IT,beneficiary.bank_details.iban,The IBAN specified does not match the bank country code provided. Please provide a valid IBAN and try again.,null
+Klivinyi Zoltan Geza,103,HU,beneficiary.bank_details.iban,This field is mandatory for this request. Please specify a value and try again.,null
+Klivinyi Zoltan Geza,103,HU,beneficiary.bank_details.swift_code,The SWIFT code / BIC specified does not match the bank country code provided. Please provide a valid SWIFT code / BIC and try again.,null
+Shannon Watson,110,IE,beneficiary.bank_details.swift_code,The SWIFT code / BIC specified is invalid.,null
+Marta Cavaco,152,PT,beneficiary.bank_details.swift_code,The SWIFT code / BIC specified is invalid.,null
+Andrea Fauzia,112,IT,beneficiary.bank_details.swift_code,The SWIFT code / BIC specified is invalid.,null
+Gerardo Gazia,116,IT,beneficiary.bank_details.swift_code,The SWIFT code / BIC specified is invalid.,null
+Kaho Tachikawa,135,JP,beneficiary.bank_details.account_number,The number of characters in this field is higher/lower than the acceptable length. Please provide a value in the length as defined in the params object. length: the exact number of characters accepted for this field,{"length":7}
+Kaho Tachikawa,135,JP,beneficiary.bank_details.account_routing_value1,The number of characters in this field is higher/lower than the acceptable length. Please provide a value in the length as defined in the params object. length: the exact number of characters accepted for this field,{"length":7}
+Kaho Tachikawa,135,JP,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Youla Jo,143,KR,beneficiary.bank_details.account_number,Only alphanumeric characters (definition) are accepted.,null
+Youla Jo,143,KR,beneficiary.bank_details.account_routing_value1,The number of characters in this field is higher/lower than the acceptable length. Please provide a value in the length as defined in the params object. length: the exact number of characters accepted for this field,{"length":3}
+Youla Jo,143,KR,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Luke Woodward,89,GB,beneficiary.bank_details.account_routing_value1,The number of characters in this field is higher/lower than the acceptable length. Please provide a value in the length as defined in the params object. length: the exact number of characters accepted for this field,{"length":6}
+Luke Woodward,89,GB,beneficiary.bank_details.account_routing_value1,Invalid value for this field. You can refer to our API reference for field requirements of this endpoint or retrieve the API schema if it's a beneficiary field.,null
+Sewon Chu,141,KR,beneficiary.bank_details.account_number,Only alphanumeric characters (definition) are accepted.,null
+Sewon Chu,141,KR,beneficiary.bank_details.account_routing_value1,The number of characters in this field is higher/lower than the acceptable length. Please provide a value in the length as defined in the params object. length: the exact number of characters accepted for this field,{"length":3}
+VIGNERONS ET PATRIMOINE SAS,72,FR,beneficiary.company_name,This field is mandatory for this request. Please specify a value and try again.,null
